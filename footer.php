@@ -181,13 +181,7 @@ InstantClick.init();
 </script>
 
 <script data-no-instant>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?601a7c4d502520d99f01fb47483fce72";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
+    //百度统计代码
 </script>
 
 </body>
