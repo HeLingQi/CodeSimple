@@ -41,7 +41,7 @@
                                 <?php if($this->options->linkUrl2):?>
                                 <a href="<?php $this->options->linkUrl2();?>" target="_blank"><?php $this->options->linkName2();?></a>
                                 <?php else:?>
-                                <a href="//www.helingqi.com" target="_blank">油纸伞</a>
+                                <a href="//www.a696.com" target="_blank">油纸伞</a>
                                 <?php endif;?>
                             </li>
                             <li>
@@ -101,9 +101,11 @@
                 <div class="copyright">
                     <span>Copyright &copy; <?php echo date("Y");?> <a href="<?php $this->options->siteUrl();?>">
                 <?php $this->options->copyRight();?>
-              </a>&nbsp;&nbsp; Theme By <a href="https://www.helingqi.com/" target="_blank" data-original-title="" title="Designed By LuoYe"><?php $this->options->theme();?></a>&nbsp;&nbsp;
+              </a></span>
+              <span class="hidden-xs">
+              Theme By <a href="https://www.helingqi.com/" target="_blank" data-original-title="" title="Designed By LuoYe"><?php $this->options->theme();?></a>&nbsp;&nbsp;
               </span>
-                    <span>
+                    <span class="hidden-xs">
                     <?php if($this->options->beiAn):?>
                       <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow"><?php $this->options->beiAn(); ?></a> 
                     <?else:?>
