@@ -5,7 +5,7 @@
  * @package CodeSimple
  * @author victoryss
  * @version 1.2
- * @link https://ums.me
+ * @link https://www.helingqi.com
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  $this->need('header.php');
