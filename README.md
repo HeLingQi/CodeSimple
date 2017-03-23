@@ -7,7 +7,6 @@ CodeSimple ,基于Bootstrap的单栏响应式主题，移植于wordpress主题Si
 
 ##Demo##
 
-<a href="//www.v1a.cn" target="_blank">惟一博客</a> 
 
 <a href="//www.a696.com" target="_blank">油纸伞</a> 
 
