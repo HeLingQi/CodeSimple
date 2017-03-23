@@ -3,6 +3,8 @@
 CodeSimple ,基于Bootstrap的单栏响应式主题，移植于wordpress主题Simple , 经二次优化修改的 typecho 主题,目前版本号为1.2.
 
 ##在线预览##
+
+
 <img src="https://raw.githubusercontent.com/Hegreen/CodeSimple/master/screenshot.png" />
 
 
